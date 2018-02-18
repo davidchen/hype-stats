@@ -1,5 +1,5 @@
-# What is this?
-A script to generate a Markdown report for the sell-out times of each item in Supreme's online store.
+# What Is This?
+A Python script to generate a Markdown report for the sell-out times of each item in Supreme's online store. Was developed as a weekly communal contribution to the [Supreme clothing subreddit](https://www.reddit.com/r/supremeclothing), so that users would know which items were the most "hype", hence the name of this project.
 
 # Example Markdown Report
 
