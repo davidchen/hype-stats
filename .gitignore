@@ -1,0 +1,6 @@
+.idea
+*pycache*
+*venv*
+*.pyc
+a045e9f6-a1ff-416d-80b1-cdf6c8478e26.txt
+Procfile
